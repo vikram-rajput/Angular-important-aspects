@@ -4,3 +4,7 @@ import { Component } from '@angular/core';
     selector:'my-list',
     templateUrl:'./list.component.html'
 })
+
+export class ListComponent{
+    
+}
