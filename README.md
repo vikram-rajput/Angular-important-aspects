@@ -1,5 +1,5 @@
 # Angular -  all important aspects of the angular framework.
-> Author : vikram rajput [@csbug](www.twitter.com/csbug)
+> Author : vikram rajput [@csbug](https://twitter.com/csbug)
 
 # Introduction
 Get started with the next major version of Angular. Bootstrap your first application and render data using built-in directives.
